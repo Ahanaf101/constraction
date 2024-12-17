@@ -1,0 +1,16 @@
+.pop{
+    background: url(../../assets/chobi8.png) no-repeat;
+    background-size: cover;
+}
+.jop{
+    background: url(../../assets/chobi9.png) no-repeat;
+    background-size: cover;
+}
+.top{
+    background: url(../../assets/chobi10.png) no-repeat;
+    background-size: cover;
+}
+
+.koku{
+    padding-bottom: 55px;
+}
